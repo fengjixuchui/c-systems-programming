@@ -21,7 +21,7 @@
 - http://csapp.cs.cmu.edu/3e/docs/dsa.pdf : **Virtual Memory**
 
 ## x86 CheatSheets
-- https://github.com/snowcra5h/x86 : **Cheat sheets I wrote very handy!**
+- https://github.com/snowcra5h/x86 : **X86 Cheat Sheets by snowcra5h!**
 
 ## C Resources
 - [RTFMan Pages](https://www.kernel.org/doc/man-pages/) : **Always go to the man pages first!**
