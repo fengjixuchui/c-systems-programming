@@ -3,12 +3,14 @@
 
 - snowcra5h@icloud.com
 
+---
+
 ## Systems Programming CMU
 ### Manditory Books
 - https://www.amazon.com/Computer-Systems-Programmers-Perspective-Edition/dp/013409266X : **CMU Systems Programming**
 - https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628/ : **K&R Enough said**
 - https://github.com/Sorosliu1029/CSAPP-Labs/blob/master/Computer%20Systems%20A%20Programmers%20Perspective%20(3rd).pdf : **Updated Systems Programming book (not sure about this one)**
----
+
 ### CMU Course Resources
 - http://www.cs.cmu.edu/afs/cs/academic/class/15213-m17/www/schedule.html# : **course schedule, midterm, finals, pdf's for lectures***
 - http://csapp.cs.cmu.edu/3e/home.html : **root page for book**
@@ -18,7 +20,8 @@
 - http://csapp.cs.cmu.edu/3e/simguide.pdf : **Y86-64 Simulator Documentation**
 - http://csapp.cs.cmu.edu/3e/docs/dsa.pdf : **Virtual Memory**
 
----
+## x86 CheatSheets
+- https://github.com/snowcra5h/x86 : **Cheat sheets I wrote very handy!**
 
 ## C Resources
 - [RTFMan Pages](https://www.kernel.org/doc/man-pages/) : **Always go to the man pages first!**
