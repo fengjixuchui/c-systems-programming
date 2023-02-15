@@ -42,6 +42,7 @@
 - [FAQ](http://www.c-faq.com/ "http://www.c-faq.com/")
 - [Declarations](http://www.ericgiguere.com/articles/reading-c-declarations.html)
 - [Event-Driven](http://eventdrivenpgm.sourceforge.net/)
+- [Microsoft Learn - C Docs](https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170)
 
 ### C Books (FREE)
 - [UNIX System Calls and Subroutines](http://www.cs.cf.ac.uk/Dave/C/)
