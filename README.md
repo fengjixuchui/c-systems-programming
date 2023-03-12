@@ -60,6 +60,7 @@
 ### Low Level
 - [OS-Development Build Your Own OS](https://wiki.osdev.org/Expanded_Main_Page)
 - [Build a Computer from Nand Gates to OS](https://www.nand2tetris.org/)
+- [The Art of Assembly](https://www.phatcode.net/res/223/files/html/toc.html) : **amazing**
 
 #### Intel Documentation 
 - https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html : **root page for the intel docs**
