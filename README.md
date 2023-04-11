@@ -68,10 +68,9 @@
 - [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) by Ulrich Drepper
 - [Modern x64 Assembly](https://www.youtube.com/watch?v=rxsBghsrvpI) by What's a Creel?
 - [Performance Programming: x64 Caches](https://www.youtube.com/watch?v=bHzrhH7yySA) by What's a Creel?
-- [A Comprehensive Guide To Debugging Optimized x64 Code](https://www.youtube.com/watch?v=MUNRvqpske0) by Jorge  
+- [A Comprehensive Guide To Debugging Optimized x64 Code](https://www.youtube.com/watch?v=MUNRvqpske0) by Jorge
 - [Introduction to x64 Assembly](https://software.intel.com/en-us/articles/introduction-to-x64-assembly) by Chris Lomont
 - [Challenges of Debugging Optimized x64 code](https://blogs.msdn.microsoft.com/ntdebugging/2009/01/09/challenges-of-debugging-optimized-x64-code/) by Microsoft
-	Additionally, you will probably find yourself needing the reference documentation from the following locations as you work your way through this tutorial or even in the future as well:
 - [Microsoft x64 Software Conventions](https://docs.microsoft.com/en-us/cpp/build/x64-software-conventions?view=vs-2017) This will be your eternal companion and enforcer as you work on Windows.
 -  [The Netwide Assembler manual](https://www.nasm.us/doc/) Contains all the information needed about programming with NASM syntax.
 - [Intel 64 and IA-32 Architectures Software Developer Manuals](https://software.intel.com/en-us/articles/intel-sdm) Contain all the technical information regarding the CPU architecture, instructions, and timings.
@@ -83,4 +82,9 @@
 - https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html : **root page for the intel docs**
 - [Intel® 64 and IA-32 Architectures Software Developer’s Manual Combined Volumes: 1, 2A, 2B, 2C, 2D, 3A, 3B, 3C, 3D, and 4](https://cdrdv2.intel.com/v1/dl/getContent/671200) : **combined volumes for the docs**
 
+#### Gods of Windows Internals
+- https://devblogs.microsoft.com/oldnewthing/author/oldnewthing Raymond Chen 
+- https://scorpiosoftware.net Pavel Yosifovich
 
+#### Malware Development
+https://institute.sektor7.net/
