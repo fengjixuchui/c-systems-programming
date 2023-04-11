@@ -64,7 +64,23 @@
 - [OS-Development Build Your Own OS](https://wiki.osdev.org/Expanded_Main_Page)
 - [Build a Computer from Nand Gates to OS](https://www.nand2tetris.org/)
 - [The Art of Assembly](https://www.phatcode.net/res/223/files/html/toc.html) : **amazing**
+- [Introduction to 64-Bit Assembly Language Programming for Linux and OS X](http://rayseyfarth.com/) by Ray Seyfarth
+- [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) by Ulrich Drepper
+- [Modern x64 Assembly](https://www.youtube.com/watch?v=rxsBghsrvpI) by What's a Creel?
+- [Performance Programming: x64 Caches](https://www.youtube.com/watch?v=bHzrhH7yySA) by What's a Creel?
+- [A Comprehensive Guide To Debugging Optimized x64 Code](https://www.youtube.com/watch?v=MUNRvqpske0) by Jorge  
+- [Introduction to x64 Assembly](https://software.intel.com/en-us/articles/introduction-to-x64-assembly) by Chris Lomont
+- [Challenges of Debugging Optimized x64 code](https://blogs.msdn.microsoft.com/ntdebugging/2009/01/09/challenges-of-debugging-optimized-x64-code/) by Microsoft
+	Additionally, you will probably find yourself needing the reference documentation from the following locations as you work your way through this tutorial or even in the future as well:
+- [Microsoft x64 Software Conventions](https://docs.microsoft.com/en-us/cpp/build/x64-software-conventions?view=vs-2017) This will be your eternal companion and enforcer as you work on Windows.
+-  [The Netwide Assembler manual](https://www.nasm.us/doc/) Contains all the information needed about programming with NASM syntax.
+- [Intel 64 and IA-32 Architectures Software Developer Manuals](https://software.intel.com/en-us/articles/intel-sdm) Contain all the technical information regarding the CPU architecture, instructions, and timings.
+- [x86 and amd64 instructions reference](https://www.felixcloutier.com/x86/) an excellent list of all the instructions available on the x86-64 instruction set. Be warned. Not everything maps 1:1 in either NASM/MASM syntax!
+- [Intel Intrinsics Guide](https://software.intel.com/sites/landingpage/IntrinsicsGuide/) is an excellent guide to the intrinsic functions available for Intel CPUs.
+- [Instruction Tables](https://www.agner.org/optimize/instruction_tables.pdf) Reference instruction timings for various CPU generations.
 
 #### Intel Documentation 
 - https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html : **root page for the intel docs**
 - [Intel® 64 and IA-32 Architectures Software Developer’s Manual Combined Volumes: 1, 2A, 2B, 2C, 2D, 3A, 3B, 3C, 3D, and 4](https://cdrdv2.intel.com/v1/dl/getContent/671200) : **combined volumes for the docs**
+
+
