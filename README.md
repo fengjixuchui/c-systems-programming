@@ -6,7 +6,7 @@
 ---
 
 ## Windows API Cheatsheet
-- https://github.com/snowcra5h/windows-api-function-cheatsheets
+- https://github.com/snowcra5h/windows-api-function-cheatsheets : by snowcra5h
 
 ## Systems Programming CMU
 ### Manditory Books
@@ -61,6 +61,7 @@
 - https://cheatography.com/jsondhof/cheat-sheets/bit-hacks/ : **bit hacking cheat sheet**
 
 ### Low Level
+- [inline assembly](http://csapp.cs.cmu.edu/3e/waside/waside-embedded-asm.pdf)
 - [OS-Development Build Your Own OS](https://wiki.osdev.org/Expanded_Main_Page)
 - [Build a Computer from Nand Gates to OS](https://www.nand2tetris.org/)
 - [The Art of Assembly](https://www.phatcode.net/res/223/files/html/toc.html) : **amazing**
