@@ -1,14 +1,18 @@
-# C Systems Programming
-*CMU Systems Programming course uses two books: "Computer Systems: A Programmer's Perspective" and "The C Programming Language". Course schedule, exams, and lecture materials available on course website. Resources on C programming include Stanford engineering lectures, GCC's implementation of C99 features, man pages, networking guides, system calls, and more..*
 
-- snowcra5h@icloud.com
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/snowcra5h/c-systems-programming/main/system.png" width="300" alt="WINAPI" style="margin-bottom: 10px;">
+  <p>snowcra5h@icloud.com</p>
+  <p><a href="https://twitter.com/snowcra5h" target="_blank" rel="noopener noreferrer">https://twitter.com/snowcra5h</a></p>
+</div>
+
+# C Programming and Assembly Resources
 
 ## Windows API Cheatsheet
 - https://github.com/snowcra5h/windows-api-function-cheatsheets : by snowcra5h
 
 ## Systems Programming CMU
+>*CMU Systems Programming course uses two books: "Computer Systems: A Programmer's Perspective" and "The C Programming Language". Course schedule, exams, and lecture materials available on course website. Resources on C programming include Stanford engineering lectures, GCC's implementation of C99 features, man pages, networking guides, system calls, and more..*
 ### Manditory Books
 - https://www.amazon.com/Computer-Systems-Programmers-Perspective-Edition/dp/013409266X : **CMU Systems Programming**
 - https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628/ : **K&R Enough said**
