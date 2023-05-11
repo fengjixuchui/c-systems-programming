@@ -10,6 +10,7 @@
 
 ## Windows API Cheatsheet
 - https://github.com/snowcra5h/windows-api-function-cheatsheets : by snowcra5h
+- https://github.com/snowcra5h/x86 : by snowcra5h
 
 ## Systems Programming CMU
 >*CMU Systems Programming course uses two books: "Computer Systems: A Programmer's Perspective" and "The C Programming Language". Course schedule, exams, and lecture materials available on course website. Resources on C programming include Stanford engineering lectures, GCC's implementation of C99 features, man pages, networking guides, system calls, and more..*
@@ -26,9 +27,6 @@
 - [Lecture Videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22) : (**very helpful)  TA resitation videos, and instructor lectures.**
 - http://csapp.cs.cmu.edu/3e/simguide.pdf : **Y86-64 Simulator Documentation**
 - http://csapp.cs.cmu.edu/3e/docs/dsa.pdf : **Virtual Memory**
-
-## x86 CheatSheets
-- https://github.com/snowcra5h/x86 : **X86 Cheat Sheets by snowcra5h!**
 
 ## C Resources
 - [RTFMan Pages](https://www.kernel.org/doc/man-pages/) : **Always go to the man pages first!**
