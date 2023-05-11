@@ -8,7 +8,7 @@
 
 # C Programming and Assembly Resources
 
-## Windows API Cheatsheet
+## Cheatsheets
 - https://github.com/snowcra5h/windows-api-function-cheatsheets : by snowcra5h
 - https://github.com/snowcra5h/branch-tables-and-jump-tables : by snowcra5h
 - https://github.com/snowcra5h/x86 : by snowcra5h
