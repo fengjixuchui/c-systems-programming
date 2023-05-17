@@ -92,3 +92,5 @@
 
 #### Malware Development
 https://institute.sektor7.net/
+
+https://h0mbre.github.io/Learn-C-By-Creating-A-Rootkit/
