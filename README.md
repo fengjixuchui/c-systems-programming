@@ -91,6 +91,9 @@
 - https://scorpiosoftware.net Pavel Yosifovich
 
 #### Malware Development
-https://institute.sektor7.net/
+- https://institute.sektor7.net/
+- https://h0mbre.github.io/Learn-C-By-Creating-A-Rootkit/
 
-https://h0mbre.github.io/Learn-C-By-Creating-A-Rootkit/
+#### Linkers and Loaders
+- https://lwn.net/Articles/276782/
+- http://www.staroceans.org/e-book/LinkersAndLoaders.pdf
