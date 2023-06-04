@@ -49,6 +49,7 @@
 - [Declarations](http://www.ericgiguere.com/articles/reading-c-declarations.html)
 - [Event-Driven](http://eventdrivenpgm.sourceforge.net/)
 - [Microsoft Learn - C Docs](https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170)
+- [CASIO® Personal Computer PB-2000C *Introduction to the C programming language*](http://www.pisi.com.pl/piotr433/manuals/c_lang.pdf) :: In case you want to target a late 80s pocket computer that, in the Japanese production (the AI-1000), ran LISP 2 instead of C as its system language (both use HD61700d processor).
 
 ### C Books (FREE)
 - [UNIX System Calls and Subroutines](http://www.cs.cf.ac.uk/Dave/C/)
